@@ -1,2 +1,2 @@
-# mcmodpack
-Minecraft modpack
+# About
+Minecraft modpack.
