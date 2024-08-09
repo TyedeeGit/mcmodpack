@@ -8,15 +8,15 @@ A modpack that overhauls the core of Minecraft and repurposes it into a survival
 
 Below is a list of features implemented into this modpack and meticulously configured and changed to suit the purpose of this new gamemode:
 
-– All New Structure Design and Spawning.
-– Custom Day/Night Cycle for Easier Adventuring.
-– Customized Recipes for Better Scaling With Modpack Difficulty.
-– Harder Mobs That Continue To Advance.
-– Loads of Utility, QoL, & Performance Mods for Smoother Gameplay.
-– Mind-Boggling Contraptions Using Create.
-– New Tools and Armor Using TInker’s Construct.
-– Overhauled Enchanting System Using New Enchanting Infuser Block.
-– Realistic Temperature for More Challenging Expeditions to the Nether.
-– Skillbook To Upgrade Character and Provide Unique Gameplay.
-– Various Assortments of Foods Using Pam’s Harvest Craft.
-– And So So Much More!
+All New Structure Design and Spawning.
+Custom Day/Night Cycle for Easier Adventuring.
+Customized Recipes for Better Scaling With Modpack Difficulty.
+Harder Mobs That Continue To Advance.
+Loads of Utility, QoL, & Performance Mods for Smoother Gameplay.
+Mind-Boggling Contraptions Using Create.
+New Tools and Armor Using TInker’s Construct.
+Overhauled Enchanting System Using New Enchanting Infuser Block.
+Realistic Temperature for More Challenging Expeditions to the Nether.
+Skillbook To Upgrade Character and Provide Unique Gameplay.
+Various Assortments of Foods Using Pam’s Harvest Craft.
+And So So Much More!
